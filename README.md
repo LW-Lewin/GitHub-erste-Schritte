@@ -6,7 +6,7 @@
 2. Lernt den Umgang mit den Befehlen git clone sowie git pull und git push.
 
 ## :pushpin: Arbeitsauftrag
-1. **Erstelle** dir einen eigenen *Account* auf www.github.com. Dafür musst du dir einen eigenen Usernamen und ein Passwort ausdenken.
+1. Du hast dir bereits einen GitHub-Account mit einem Usernamen und einem Passwort erstellt - super! ✅ 😺
 2. **Erstelle** dir zusätzlich zu deinem Passwort ein eigenes *Token*, das du für den Login verwendest. Hier findest du Hilfe, wie man das macht: https://web.microsoftstream.com/video/fe820d20-ec4d-441d-8434-db93841eb102
 3. Öffne dann in einem lokalen Ordner auf deiner Festplatte die *git Bash*. **Clone** dieses Repository auf deine Festplatte. Das machst du mit `git clone` und der URL dieses Repos. Die bekommst du, wenn du oben auf den grünen Button Code klickst und dann die dort angezeigte URL kopierst.
    🚨 Vorsicht! Nutze `Rechtsklick + Paste` zum Einfügen, denn `Strg + V` funktioniert in der Bash __*nicht*__!
