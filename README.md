@@ -3,7 +3,7 @@
 ## :dart: Ziele:
 
 1. Lernt die Plattform GitHub kennen.  
-2. Lernt den Umgang mit den Befehlen git clone sowie git pull und git push.
+2. Lernt den Umgang mit den Befehlen `git clone` sowie `git pull` und `git push`.
 
 ## :pushpin: Arbeitsauftrag
 1. Du hast dir bereits einen GitHub-Account mit einem Usernamen und einem Passwort erstellt - super! ✅ 😺
@@ -14,7 +14,7 @@
 5. Danach öffnet sich ein weiteres Fenster. Hier **gibst** du deinen Usernamen und danach dein __**Token**__ statt dein ~~Passwort~~ ein.
 ℹ️ Wenn du im Browser bereits eingeloggt bist, kann es sein, dass du 4. und 5. nicht durchführen musst.
 ![Token verwenden](https://github.com/LW-Lewin/GitHub-erste-Schritte/assets/118429221/09cf2c52-d969-47aa-91f3-8a99257840c7)
-7. **Füge** dieser ReadMe-Datei über deinen Editor (oder z.B. Notepad++) eine neue Zeile **hinzu**. **Notiere** z.B. deinen GitHub-Usernamen und **speichere** die Datei dann.
+7. **Füge** dieser ReadMe-Datei **auf deinem Rechner** (über deinen Editor (oder z.B. Notepad++), nicht im Browser!) eine neue Zeile **hinzu**. **Notiere** z.B. deinen GitHub-Usernamen und **speichere** die Datei dann.
 8. **Committe** deine Änderungen mit `git add` und `git commit`. **Vergiss** dabei **nicht** eine passende *Commit-Nachricht*!
 9. `Erst pullen, dann pushen!` **Überprüfe** mit `git pull`, ob sich inzwischen auf dem Remote Repo etwas verändert hat.
    __Spoiler__: Es ist alles beim Alten geblieben! 🙂
